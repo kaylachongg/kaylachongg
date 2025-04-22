@@ -1,8 +1,7 @@
 - 👋 Hi, I’m @kaylachongg
 - 👀 I’m interested in marketing automation
-- 🌱 I’m currently learning HTML, CSS and coding
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me kayla
+- 🌱 I’m currently learning HTML, CSS and JVS
+- 💞️ I’m looking to collaborate on anything beginner-friendly!
 - 😄 Pronouns: she/her
 - ⚡ Fun fact: I love matcha, pilates & dogs
 
